@@ -1,11 +1,19 @@
+.body {
+          margin: auto;
+          width: 50%;
+          border: 3px solid black;
+          padding: 10px 
+       }
+
 .header {
           font-weight: bold;
-          font-size: 20px;
+          font-size: 22px;
           font-family: verdana, helvetica, arial, sans-serif;
           color: black
         }
 
 .address {
+          font-weight: bold;
           font-size: 14px;
           font-family: verdana, helvetica, arial, sans-serif;
           color: black
@@ -19,14 +27,14 @@
 
 .topic {
           font-weight: bold;        
-          font-size: 16px;
+          font-size: 14px;
           font-family: verdana, helvetica, arial, sans-serif;
           color: black
         }
 
 .sub-topic {
           font-weight: bold;        
-          font-size: 14px;
+          font-size: 13px;
           font-family: verdana, helvetica, arial, sans-serif;
           color: black
         }
