@@ -6,6 +6,7 @@
        }
 
 .header {
+          text-align: center;
           font-weight: bold;
           font-size: 22px;
           font-family: verdana, helvetica, arial, sans-serif;
