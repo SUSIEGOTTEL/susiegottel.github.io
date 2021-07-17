@@ -1,38 +1,41 @@
 .header {
           font-weight: bold;
           font-size: 20px;
-          font: helvetica, arial, sans-serif;
+          font-family: verdana, helvetica, arial, sans-serif;
           color: black
         }
 
 .address {
           font-size: 14px;
-          font: helvetica, arial, sans-serif;
+          font-family: verdana, helvetica, arial, sans-serif;
           color: black
         }
 
 .items {      
           font-size: 12px;
-          font: helvetica, arial, sans-serif;
+          font-family: verdana, helvetica, arial, sans-serif;
           color: black
         }
 
 .topic {
           font-weight: bold;        
           font-size: 16px;
-          font: helvetica, arial, sans-serif;
+          font-family: verdana, helvetica, arial, sans-serif;
           color: black
         }
 
 .sub-topic {
           font-weight: bold;        
           font-size: 14px;
-          font: helvetica, arial, sans-serif;
+          font-family: verdana, helvetica, arial, sans-serif;
           color: black
         }
 
 .list {       
-          font-size: 14px;
-          font: helvetica, arial, sans-serif;
+          font-size: 12px;
+          font-family: verdana, helvetica, arial, sans-serif;
           color: black
         }
+
+
+
